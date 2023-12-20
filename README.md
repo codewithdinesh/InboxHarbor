@@ -13,6 +13,12 @@ This web service allows you to extract email addresses from a given website.
 - [Axios](https://axios-http.com/)
 - [Cheerio](https://cheerio.js.org/)
 
+## Screenshot
+<img width="954" alt="image" src="https://github.com/codewithdinesh/InboxHarbor/assets/72983957/21e8f482-7f83-475f-a4b9-618ff8e7ae47">
+<img width="957" alt="image" src="https://github.com/codewithdinesh/InboxHarbor/assets/72983957/2359fb73-771f-4da2-871f-a5b44c591fc9">
+
+
+
 ## Installation
 
 1. Clone the repository:
